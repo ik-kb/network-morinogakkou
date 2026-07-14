@@ -3,7 +3,7 @@
 中学生レベルから基本情報技術者(FE)試験の入り口まで、ネットワークとセキュリティを
 ゲーム感覚で学べる無料の学習アプリです。登録不要・ブラウザだけで動きます。
 
-**▶ あそぶ:** https://<ユーザー名>.github.io/<リポジトリ名>/
+**▶ あそぶ:** https://ik-kb.github.io/network-morinogakkou/
 
 ![なかまたち](nakama-ichiran-zenin.png)
 
